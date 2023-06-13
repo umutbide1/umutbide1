@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Umut</h1>
 <h3 align="center">I am a student of computer science department in Turkey.</h3>
 
-- 🌱 I’m currently learning **Everything that interests me.Learning machine for python**
+- 🌱 I’m currently learning **Everything that interests me.**
 
 - 📫 How to reach me **umut.bide.564@gmail.com**
 
