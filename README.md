@@ -22,4 +22,4 @@
 
 
 
- ![snake gif](https://github.com/umutbide1/umutbide1/blob/output/github-contribution-grid-snake.gif)
+ [snake gif](https://github.com/umutbide1/umutbide1/blob/output/github-contribution-grid-snake.gif)
