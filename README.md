@@ -1,4 +1,4 @@
- ![MasterHead]([https://datascience.jpl.nasa.gov/media/images/data-science-banner-image.original.jpg](https://datascience.jpl.nasa.gov/media/images/data-science-banner-image.original.jpg))
+ ![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQEWtQHXML9JlQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1691878638603?e=1758153600&v=beta&t=_uUWncnuAAajqjE4tIj6ygT8oYVSRHuBVUhJtgXqW_M)
  
 <p align="center">
   <a href="https://github.com/umutbide1">
